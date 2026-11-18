@@ -28,7 +28,7 @@ Formulario web responsivo desarrollado en **HTML/CSS y Google Apps Script (`codi
 
 | Interfaz de Registro en Campo (GAS) | Trazabilidad en Odoo CRM / Facturación |
 | :---: | :---: |
-| ![App de Registro](./GAS/Apps .jpg) | ![Conexión con Odoo](./Assets/conexion%20con%20Odoo.jpg) |
+| ![App de Registro](./GAS/Aplicacion.jpg) | ![Conexión con Odoo](./Assets/conexion%20con%20Odoo.jpg) |
 
 ---
 
@@ -39,21 +39,21 @@ El modelo analítico permite evaluar el desempeño logístico y detectar cuellos
 ### 📌 Entregas Efectivas vs. Motivos de Rechazo
 Identificación de las principales causas de devolución en punto de venta (*Cliente ausente / local cerrado, Producto dañado en transporte, Pedido incorrecto, Cliente sin efectivo / crédito, Dirección no encontrada, Entrega fuera de horario y Producto vencido*).
 
-![Entregas Efectivas vs Motivos Rechazos](./Entregas%20Efectivas%20vs%20Motivos%20Rechazos.jpg)
+![Entregas Efectivas vs Motivos Rechazos](./Assets/Entregas%20Efectivas%20vs%20Motivos%20Rechazos.jpg)
 
 ---
 
 ### 🎯 Control de Rechazos vs. Meta Establecida
 Seguimiento comparativo del porcentaje de rechazo por ruta y zona frente al umbral máximo permitido por la gerencia operativa.
 
-![Rechazo y Meta de Rechazo](./Rechazo%20y%20Meta%20de%20Rechazo.jpg)
+![Rechazo y Meta de Rechazo](./Assets/Rechazo%20y%20Meta%20de%20Rechazo.jpg)
 
 ---
 
 ### 📦 Volumen Total de Entregas por Año y Categoría de Producto
 Análisis histórico y estacional de cajas entregadas por línea de producto (*Granos Básicos, Bebidas, Lácteos, Aceites y Salsas, Aseo del Hogar, Cuidado Personal y Snacks*) y canal de venta (*Pulperías, Supermercados, Mini Súper, Distribuidores, Comisariatos y Tiendas de Barrio*).
 
-![Total Entregas por Año y Productos](./Total%20Entregas%20x%20Año%20y%20Productos.jpg)
+![Total Entregas por Año y Productos](./Assets/Total%20Entregas%20x%20Año%20y%20Productos.jpg)
 
 ---
 
