@@ -28,7 +28,7 @@ Formulario web responsivo desarrollado en **HTML/CSS y Google Apps Script (`codi
 
 | Interfaz de Registro en Campo (GAS) | Trazabilidad en Odoo CRM / Facturación |
 | :---: | :---: |
-| ![App de Registro](./Apps%20.jpg) | ![Conexión con Odoo](./conexion con Odoo.jpg) |
+| ![App de Registro](./Apps%20.jpg) | ![Conexión con Odoo](./Assets/conexion%20con%20Odoo.jpg) |
 
 ---
 
